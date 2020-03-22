@@ -1,0 +1,294 @@
+﻿2019-09-11 01:37:59,596 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-11 01:38:05,442 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-11 01:38:05,647 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-11 01:38:08,992 INFO [6] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-11 01:38:09,103 INFO [10] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:08,174 INFO [10] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-11 01:39:08,186 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:29,680 INFO [15] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 01:39:30,167 INFO [15] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 01:39:30,169 INFO [12] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 01:39:30,172 INFO [15] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:36,394 INFO [14] Server.Providers.Logger.LogMessage - Delete Appointment command.
+2019-09-11 01:39:36,439 INFO [11] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:39:36,441 INFO [14] Server.Providers.Logger.LogMessage - Delete Appointment command done.
+2019-09-11 01:39:36,443 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:39,597 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:39:39,619 INFO [11] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:39:39,626 INFO [13] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:39:39,633 INFO [14] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 01:39:39,636 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:41,346 INFO [12] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:39:41,358 INFO [13] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:39:41,359 INFO [12] Server.Providers.Logger.LogMessage - Delete Appointment command redo done.
+2019-09-11 01:39:41,361 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:42,506 INFO [14] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:39:42,515 INFO [13] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:39:42,517 INFO [11] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:39:42,521 INFO [15] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 01:39:42,523 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:39:47,204 INFO [14] Server.Providers.Logger.LogMessage - Get Doctors executed succesfuly.
+2019-09-11 01:39:47,220 INFO [15] Server.Providers.Logger.LogMessage - Get Patients executed succesfuly.
+2019-09-11 01:39:59,089 INFO [11] Server.Providers.Logger.LogMessage - Add Appointment command.
+2019-09-11 01:39:59,208 INFO [14] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:39:59,210 INFO [11] Server.Providers.Logger.LogMessage - Add Appointment command done.
+2019-09-11 01:39:59,212 INFO [14] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:39:59,216 INFO [15] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:40:13,768 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 01:40:13,781 INFO [14] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 01:40:13,782 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 01:40:13,784 INFO [14] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:40:23,897 INFO [14] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-11 01:40:23,938 INFO [11] Server.Providers.Logger.LogMessage - Change User executed succesfuly.
+2019-09-11 01:40:25,505 INFO [14] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-11 01:40:34,406 INFO [14] Server.Providers.Logger.LogMessage - Get searched appointments executed succesfuly.
+2019-09-11 01:40:35,399 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:40:40,105 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:40:45,806 INFO [14] Server.Providers.Logger.LogMessage - Get searched appointments executed succesfuly.
+2019-09-11 01:40:47,634 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:40:58,386 INFO [14] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 01:40:58,402 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 01:40:58,405 INFO [14] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 01:40:58,408 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:02,786 INFO [14] Server.Providers.Logger.LogMessage - Clone Appointment started.
+2019-09-11 01:41:02,799 INFO [16] Server.Providers.Logger.LogMessage - Clone appointment executed succesfuly.
+2019-09-11 01:41:02,801 INFO [14] Server.Providers.Logger.LogMessage - Clone Appointment success.
+2019-09-11 01:41:02,803 INFO [16] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:08,713 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 01:41:08,731 INFO [16] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 01:41:08,732 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 01:41:08,735 INFO [16] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:12,450 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:12,457 INFO [11] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:41:12,459 INFO [14] Server.Providers.Logger.LogMessage - Add Appointment command undo done.
+2019-09-11 01:41:12,460 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:24,117 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:25,187 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:25,836 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:26,164 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:26,387 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:26,600 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:27,414 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:27,422 INFO [11] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:41:27,424 INFO [14] Server.Providers.Logger.LogMessage - Add Appointment command redo done.
+2019-09-11 01:41:27,426 INFO [11] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:41:27,431 INFO [16] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:29,177 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:29,185 INFO [16] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:41:29,187 INFO [14] Server.Providers.Logger.LogMessage - Delete Appointment command redo done.
+2019-09-11 01:41:29,189 INFO [16] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:30,594 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:30,782 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:30,983 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:31,227 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:31,439 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:32,203 INFO [11] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:32,212 INFO [16] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:41:32,213 INFO [11] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:41:32,216 INFO [16] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 01:41:32,218 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:32,685 INFO [16] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:41:32,693 INFO [11] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:41:32,694 INFO [14] Server.Providers.Logger.LogMessage - Add Appointment command undo done.
+2019-09-11 01:41:32,696 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:34,037 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:34,046 INFO [11] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:41:34,048 INFO [16] Server.Providers.Logger.LogMessage - Add Appointment command redo done.
+2019-09-11 01:41:34,049 INFO [11] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:41:34,055 INFO [16] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:34,204 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:34,212 INFO [16] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:41:34,213 INFO [14] Server.Providers.Logger.LogMessage - Delete Appointment command redo done.
+2019-09-11 01:41:34,216 INFO [16] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:41:34,366 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:34,532 INFO [16] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:34,747 INFO [11] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:41:55,789 INFO [11] Server.Providers.Logger.LogMessage - Get Doctors executed succesfuly.
+2019-09-11 01:41:55,795 INFO [3] Server.Providers.Logger.LogMessage - Get Patients executed succesfuly.
+2019-09-11 01:42:09,936 INFO [11] Server.Providers.Logger.LogMessage - Add Appointment command.
+2019-09-11 01:42:09,979 INFO [5] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:42:09,980 INFO [3] Server.Providers.Logger.LogMessage - Add Appointment command done.
+2019-09-11 01:42:09,982 INFO [5] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:42:09,985 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:18,169 INFO [3] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 01:42:18,183 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 01:42:18,184 INFO [3] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 01:42:18,186 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:24,321 INFO [11] Server.Providers.Logger.LogMessage - Clone Appointment started.
+2019-09-11 01:42:24,332 INFO [5] Server.Providers.Logger.LogMessage - Clone appointment executed succesfuly.
+2019-09-11 01:42:24,334 INFO [3] Server.Providers.Logger.LogMessage - Clone Appointment success.
+2019-09-11 01:42:24,336 INFO [5] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:34,216 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 01:42:34,229 INFO [3] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 01:42:34,231 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 01:42:34,233 INFO [3] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:39,769 INFO [11] Server.Providers.Logger.LogMessage - Delete Appointment command.
+2019-09-11 01:42:39,780 INFO [3] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:42:39,782 INFO [5] Server.Providers.Logger.LogMessage - Delete Appointment command done.
+2019-09-11 01:42:39,786 INFO [3] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:45,882 INFO [11] Server.Providers.Logger.LogMessage - Get Doctors executed succesfuly.
+2019-09-11 01:42:45,886 INFO [3] Server.Providers.Logger.LogMessage - Get Patients executed succesfuly.
+2019-09-11 01:42:50,675 INFO [5] Server.Providers.Logger.LogMessage - Change Appointment command.
+2019-09-11 01:42:50,687 INFO [3] Server.Providers.Logger.LogMessage - Change appointment executed succesfuly.
+2019-09-11 01:42:50,689 INFO [11] Server.Providers.Logger.LogMessage - Change Appointment command done.
+2019-09-11 01:42:50,691 INFO [3] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:54,735 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:42:54,737 INFO [3] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:42:54,753 INFO [11] Server.Providers.Logger.LogMessage - Change appointment executed succesfuly.
+2019-09-11 01:42:54,755 INFO [5] Server.Providers.Logger.LogMessage - Change Appointment command undo done.
+2019-09-11 01:42:54,758 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:42:56,358 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:42:56,368 INFO [11] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:42:56,369 INFO [3] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:42:56,373 INFO [11] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 01:42:56,375 INFO [3] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:43:06,723 INFO [3] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:43:06,731 INFO [11] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:43:06,733 INFO [5] Server.Providers.Logger.LogMessage - Add Appointment command undo done.
+2019-09-11 01:43:06,735 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:43:11,243 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:43:11,252 INFO [11] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:43:11,254 INFO [5] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:43:11,257 INFO [11] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 01:43:11,260 INFO [5] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:43:22,195 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 01:43:22,203 INFO [11] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 01:43:22,207 INFO [5] Server.Providers.Logger.LogMessage - Add Appointment command undo done.
+2019-09-11 01:43:22,210 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 01:43:24,482 INFO [9] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 01:43:24,494 INFO [11] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 01:43:24,496 INFO [9] Server.Providers.Logger.LogMessage - Add Appointment command redo done.
+2019-09-11 01:43:24,498 INFO [11] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 01:43:24,503 INFO [9] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:36:38,247 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-11 22:36:43,877 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-11 22:36:43,964 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-11 22:36:44,186 INFO [7] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-11 22:36:44,256 INFO [10] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:37:06,662 INFO [10] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-11 22:37:09,198 INFO [10] Server.Providers.Logger.LogMessage - Add User info command done.
+2019-09-11 22:38:08,702 INFO [10] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-11 22:38:09,465 INFO [12] Server.Providers.Logger.LogMessage - Add User info command done.
+2019-09-11 22:38:59,534 INFO [12] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-11 22:38:59,557 INFO [11] Server.Providers.Logger.LogMessage - Change User executed succesfuly.
+2019-09-11 22:39:00,470 INFO [12] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-11 22:39:06,664 INFO [9] Server.Providers.Logger.LogMessage - Change User info command.
+2019-09-11 22:39:06,668 INFO [11] Server.Providers.Logger.LogMessage - Change User executed succesfuly.
+2019-09-11 22:39:07,997 INFO [12] Server.Providers.Logger.LogMessage - Change User info command done.
+2019-09-11 22:39:36,055 INFO [12] Server.Providers.Logger.LogMessage - Get searched appointments executed succesfuly.
+2019-09-11 22:39:37,330 INFO [8] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:39:50,968 INFO [8] Server.Providers.Logger.LogMessage - Get Doctors executed succesfuly.
+2019-09-11 22:39:50,972 INFO [12] Server.Providers.Logger.LogMessage - Get Patients executed succesfuly.
+2019-09-11 22:40:05,376 INFO [8] Server.Providers.Logger.LogMessage - Add Appointment command.
+2019-09-11 22:40:05,495 INFO [12] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 22:40:05,496 INFO [8] Server.Providers.Logger.LogMessage - Add Appointment command done.
+2019-09-11 22:40:05,497 INFO [12] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:40:05,500 INFO [8] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:40:20,267 INFO [10] Server.Providers.Logger.LogMessage - Get Doctors executed succesfuly.
+2019-09-11 22:40:20,270 INFO [12] Server.Providers.Logger.LogMessage - Get Patients executed succesfuly.
+2019-09-11 22:40:37,288 INFO [12] Server.Providers.Logger.LogMessage - Change Appointment command.
+2019-09-11 22:40:37,296 INFO [15] Server.Providers.Logger.LogMessage - Change appointment executed succesfuly.
+2019-09-11 22:40:37,298 INFO [14] Server.Providers.Logger.LogMessage - Change Appointment command done.
+2019-09-11 22:40:37,299 INFO [12] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:41:43,166 INFO [12] Server.Providers.Logger.LogMessage - Clone Appointment started.
+2019-09-11 22:41:43,176 INFO [7] Server.Providers.Logger.LogMessage - Clone appointment executed succesfuly.
+2019-09-11 22:41:43,178 INFO [13] Server.Providers.Logger.LogMessage - Clone Appointment success.
+2019-09-11 22:41:43,179 INFO [12] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:41:50,195 INFO [7] Server.Providers.Logger.LogMessage - Delete Appointment command.
+2019-09-11 22:41:50,207 INFO [13] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 22:41:50,208 INFO [12] Server.Providers.Logger.LogMessage - Delete Appointment command done.
+2019-09-11 22:41:50,209 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:41:55,628 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:41:55,636 INFO [13] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 22:41:55,638 INFO [7] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:41:55,641 INFO [13] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 22:41:55,643 INFO [7] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:41:57,082 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:41:57,083 INFO [7] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:41:57,090 INFO [13] Server.Providers.Logger.LogMessage - Change appointment executed succesfuly.
+2019-09-11 22:41:57,091 INFO [12] Server.Providers.Logger.LogMessage - Change Appointment command undo done.
+2019-09-11 22:41:57,092 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:41:59,503 INFO [12] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:41:59,507 INFO [13] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 22:41:59,508 INFO [12] Server.Providers.Logger.LogMessage - Add Appointment command undo done.
+2019-09-11 22:41:59,509 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:42:27,881 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:27,886 INFO [14] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 22:42:27,888 INFO [15] Server.Providers.Logger.LogMessage - Add Appointment command redo done.
+2019-09-11 22:42:27,888 INFO [14] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:42:27,890 INFO [15] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:42:28,895 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:28,896 INFO [15] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:42:28,900 INFO [13] Server.Providers.Logger.LogMessage - Change appointment executed succesfuly.
+2019-09-11 22:42:28,901 INFO [15] Server.Providers.Logger.LogMessage - Change Appointment command redo done.
+2019-09-11 22:42:28,902 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:42:29,935 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:29,938 INFO [14] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 22:42:29,939 INFO [13] Server.Providers.Logger.LogMessage - Delete Appointment command redo done.
+2019-09-11 22:42:29,940 INFO [14] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:42:30,186 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:30,393 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:30,614 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:30,835 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:31,056 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:31,314 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:31,536 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:31,734 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:31,948 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:32,154 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:32,342 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:32,558 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:32,775 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:35,300 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:35,535 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:35,756 INFO [14] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:35,971 INFO [13] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:39,430 INFO [14] Server.Providers.Logger.LogMessage - Clone Appointment started.
+2019-09-11 22:42:39,435 INFO [13] Server.Providers.Logger.LogMessage - Clone appointment executed succesfuly.
+2019-09-11 22:42:39,436 INFO [14] Server.Providers.Logger.LogMessage - Clone Appointment success.
+2019-09-11 22:42:39,437 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:42:42,400 INFO [13] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:42:42,425 INFO [14] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 22:42:42,426 INFO [13] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:42:42,429 INFO [15] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 22:42:42,430 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:42:49,519 INFO [15] Server.Providers.Logger.LogMessage - Redo operation.
+2019-09-11 22:42:49,522 INFO [13] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 22:42:49,523 INFO [14] Server.Providers.Logger.LogMessage - Delete Appointment command redo done.
+2019-09-11 22:42:49,524 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:43:16,094 INFO [13] Server.Providers.Logger.LogMessage - Clone Appointment started.
+2019-09-11 22:43:16,106 INFO [9] Server.Providers.Logger.LogMessage - Clone appointment executed succesfuly.
+2019-09-11 22:43:16,108 INFO [5] Server.Providers.Logger.LogMessage - Clone Appointment success.
+2019-09-11 22:43:16,109 INFO [13] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:43:21,512 INFO [9] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:43:21,516 INFO [13] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-11 22:43:21,517 INFO [5] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:43:21,518 INFO [9] Server.Providers.Logger.LogMessage - Delete Appointment command undo done.
+2019-09-11 22:43:21,519 INFO [5] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:43:44,923 INFO [5] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-11 22:43:44,929 INFO [8] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:43:49,635 INFO [5] Server.Providers.Logger.LogMessage - Clone Appointment started.
+2019-09-11 22:43:49,639 INFO [11] Server.Providers.Logger.LogMessage - Clone appointment executed succesfuly.
+2019-09-11 22:43:49,639 INFO [8] Server.Providers.Logger.LogMessage - Clone Appointment success.
+2019-09-11 22:43:49,640 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:43:52,343 INFO [5] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:43:52,344 INFO [11] Server.Providers.Logger.LogMessage - Get last appointment executed succesfuly.
+2019-09-11 22:43:52,349 INFO [5] Server.Providers.Logger.LogMessage - Change appointment executed succesfuly.
+2019-09-11 22:43:52,349 INFO [11] Server.Providers.Logger.LogMessage - Change Appointment command undo done.
+2019-09-11 22:43:52,350 INFO [5] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:45:16,842 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 22:45:16,862 INFO [21] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 22:45:16,863 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 22:45:16,864 INFO [21] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:45:25,481 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 22:45:25,486 INFO [21] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 22:45:25,487 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 22:45:25,487 INFO [21] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:45:27,078 INFO [20] Server.Providers.Logger.LogMessage - Undo operation.
+2019-09-11 22:45:27,082 INFO [5] Server.Providers.Logger.LogMessage - Delete appointment executed succesfuly.
+2019-09-11 22:45:27,084 INFO [20] Server.Providers.Logger.LogMessage - Add Appointment command undo done.
+2019-09-11 22:45:27,085 INFO [5] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-11 22:46:08,501 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-11 22:46:08,508 INFO [24] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-11 22:46:08,509 INFO [5] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-11 22:46:08,510 INFO [24] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.

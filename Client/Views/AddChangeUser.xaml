@@ -1,0 +1,36 @@
+﻿<Window x:Class="Client.Views.AddChangeUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        mc:Ignorable="d" Background="Black"
+        Title="AddChangeUser" Height="813.966" Width="500.33" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Client;component/abstract-medical-wallpaper-template-design_53876-61802.jpg"/>
+        </Grid.Background>
+        <Label Foreground="Black" HorizontalContentAlignment="Center" Content="{Binding TitleContent}" Margin="10,10,9.6,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+
+        <Label Foreground="Black" HorizontalContentAlignment="Center" Content="Username" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="474"/>
+        <TextBox Foreground="Black" Background="Transparent" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="160,137,0,0" TextWrapping="Wrap" Text="{Binding User.Username}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label HorizontalContentAlignment="Center" Content="{Binding User.ValidationErrors[Username]}" Foreground="red" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+        <Label HorizontalContentAlignment="Center" Content="{Binding CheckUsername}" Foreground="red" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Label HorizontalContentAlignment="Center" Foreground="Black" Content="Password" HorizontalAlignment="Left" Margin="10,217,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="474"/>
+        <TextBox Foreground="Black" Background="Transparent" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="160,264,0,0" TextWrapping="Wrap" Text="{Binding User.Password}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label HorizontalContentAlignment="Center" Content="{Binding User.ValidationErrors[Password]}" Foreground="red" HorizontalAlignment="Left" Margin="10,313,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Label HorizontalContentAlignment="Center" Foreground="Black" Content="First Name" Margin="10,344,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Width="474"/>
+        <TextBox Foreground="Black" Background="Transparent" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="160,391,0,0" TextWrapping="Wrap" Text="{Binding User.FirstName}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label HorizontalContentAlignment="Center" Content="{Binding User.ValidationErrors[FirstName]}" Foreground="red" HorizontalAlignment="Left" Margin="10,440,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Label HorizontalContentAlignment="Center" Foreground="Black" Content="Last Name" HorizontalAlignment="Left" Margin="10,471,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="474"/>
+        <TextBox Foreground="Black" Background="Transparent" BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="44" Margin="160,518,0,0" TextWrapping="Wrap" Text="{Binding User.LastName}" VerticalAlignment="Top" Width="173" FontSize="24"/>
+        <Label HorizontalContentAlignment="Center" Content="{Binding User.Black[LastName]}" Foreground="red" HorizontalAlignment="Left" Margin="10,567,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+        <CheckBox FontFamily="Segoe UI" Visibility="{Binding CheckBoxVisible}" Foreground="Black" Content="Doctor" IsChecked="{Binding IsDoctor, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Height="45" Margin="198,598,0,0" VerticalAlignment="Top" Width="135"  FontSize="24" Background="White" BorderBrush="White"/>
+
+        <Button Foreground="Black" Background="Transparent" BorderBrush="Black" BorderThickness="2" Content="{Binding TitleContent}" Command="{Binding AddChangeUserCommand}" Margin="160,694,160.6,0" VerticalAlignment="Top" FontSize="36" Height="61" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

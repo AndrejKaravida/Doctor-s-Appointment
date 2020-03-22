@@ -1,0 +1,34 @@
+﻿<Window x:Class="Client.Views.AddChangeAppointment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        mc:Ignorable="d" Background="Black"
+        Title="AddChangeAppointment"  Height="813.966" Width="500.33" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Client;component/abstract-medical-wallpaper-template-design_53876-61802.jpg"/>
+        </Grid.Background>
+        <Label Foreground="Black" HorizontalContentAlignment="Center" Content="{Binding TitleContent}" Margin="10,10,9.6,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <Label Foreground="Black" HorizontalContentAlignment="Center" Content="Doctor" HorizontalAlignment="Left" Margin="10,166,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="474"/>
+        <ComboBox ItemsSource="{Binding Doctors}" SelectedItem="{Binding Appointment.Doctor}"  HorizontalAlignment="Left" Margin="160,212,0,0" VerticalAlignment="Top" Width="173" Height="42" Background="#FF373737" FontSize="25" Foreground="Black" />
+
+        <Label HorizontalContentAlignment="Center" Content="{Binding Appointment.ValidationErrors[Doctor]}" Foreground="red" HorizontalAlignment="Left" Margin="10,262,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Label HorizontalContentAlignment="Center" Foreground="Black" Content="Date" HorizontalAlignment="Left" Margin="10,293,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="474"/>
+        <DatePicker FontSize="24" SelectedDate="{Binding Appointment.AppointmentTime}"  HorizontalAlignment="Left" Margin="160,340,0,0" VerticalAlignment="Top" Width="173" Height="42"/>
+        <Label HorizontalContentAlignment="Center" Content="{Binding Appointment.ValidationErrors[AppointmentTime]}" Foreground="red" HorizontalAlignment="Left" Margin="10,387,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Label  HorizontalContentAlignment="Center" Foreground="Black" Content="Time" Margin="10,391,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Width="474"/>
+        <ComboBox  ItemsSource="{Binding Hours}" SelectedItem="{Binding Hour}"  HorizontalAlignment="Left" Margin="160,438,0,0" VerticalAlignment="Top" Width="173" Height="42" Background="#FF373737" FontSize="25" Foreground="Black" />
+        <Label  HorizontalContentAlignment="Center" Content="{Binding Appointment.ValidationErrors[AppointmentTime]}" Foreground="red" HorizontalAlignment="Left" Margin="10,487,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Label Visibility="{Binding PatientVisible}" HorizontalContentAlignment="Center" Foreground="Black" Content="Patient" Margin="10,518,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Width="474"/>
+        <ComboBox Visibility="{Binding PatientVisible}" ItemsSource="{Binding Patients}" SelectedItem="{Binding Appointment.Patient}"  HorizontalAlignment="Left" Margin="160,565,0,0" VerticalAlignment="Top" Width="173" Height="42" Background="#FF373737" FontSize="25" Foreground="Black" />
+        <Label Visibility="{Binding PatientVisible}" HorizontalContentAlignment="Center" Content="{Binding Appointment.ValidationErrors[Patient]}" Foreground="red" HorizontalAlignment="Left" Margin="10,614,0,0" VerticalAlignment="Top" Width="474" Height="26"/>
+
+        <Button Foreground="Black" Background="Transparent" BorderBrush="Black" BorderThickness="2" Content="{Binding TitleContent}" Command="{Binding AddChangeAppointmentCommand}" Margin="160,694,160.6,0" VerticalAlignment="Top" FontSize="36" Height="61" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

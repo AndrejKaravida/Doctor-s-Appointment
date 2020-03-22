@@ -1,0 +1,9 @@
+﻿2019-09-12 00:35:44,573 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-12 00:35:49,649 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-12 00:35:49,787 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-12 00:36:53,250 INFO [14] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-12 00:36:53,352 INFO [11] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-12 00:37:19,947 INFO [15] Server.Providers.Logger.LogMessage - Add Diagnosis started.
+2019-09-12 00:37:20,200 INFO [15] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-12 00:37:20,201 INFO [11] Server.Providers.Logger.LogMessage - Add Diagnosis success.
+2019-09-12 00:37:20,203 INFO [15] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.

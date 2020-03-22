@@ -1,0 +1,144 @@
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Client.exe.config
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Client.exe
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Client.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\App.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.g.resources
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.exe
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\Login.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\MainWindow.baml
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\Login.baml
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeUser.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeUser.baml
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeAppointment.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeAppointment.baml
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.g.cs
+C:\Users\Stefan\Documents\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.baml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Client.exe.config
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Client.exe
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Client.pdb
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Common.dll
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\Common.pdb
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\RVA Projekti\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeAppointment.g.cs
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.g.cs
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeUser.g.cs
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\MainWindow.g.cs
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\Login.g.cs
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\App.g.cs
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client_MarkupCompile.cache
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client_MarkupCompile.lref
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeAppointment.baml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.baml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeUser.baml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\MainWindow.baml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Views\Login.baml
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.g.resources
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.Properties.Resources.resources
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.CopyComplete
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.exe
+E:\RVA Projekti\Andrej Karavida\RVA\Client\obj\Debug\Client.pdb
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\Client.exe.config
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\Client.exe
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\Client.pdb
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\Common.dll
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\Common.pdb
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeAppointment.g.cs
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.g.cs
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeUser.g.cs
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\Login.g.cs
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeAppointment.baml
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.baml
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\AddChangeUser.baml
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\MainWindow.baml
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Views\Login.baml
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.g.resources
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.exe
+C:\Users\Andrej\Desktop\Andrej Karavida\RVA\Client\obj\Debug\Client.pdb
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\Client.exe.config
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\Client.exe
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\Client.pdb
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\Common.dll
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\Common.pdb
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\AddChangeAppointment.g.cs
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.g.cs
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\AddChangeUser.g.cs
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\Login.g.cs
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\AddChangeAppointment.baml
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.baml
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\AddChangeUser.baml
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\MainWindow.baml
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Views\Login.baml
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.g.resources
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.exe
+C:\Users\Andrej\Desktop\RVA projekat\RVA\Client\obj\Debug\Client.pdb
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\Client.exe.config
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\Client.exe
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\Client.pdb
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\Common.dll
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\Common.pdb
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\AddChangeAppointment.g.cs
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.g.cs
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\AddChangeUser.g.cs
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\Login.g.cs
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\App.g.cs
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\AddChangeAppointment.baml
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\AddChangeDiagnosis.baml
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\AddChangeUser.baml
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\MainWindow.baml
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Views\Login.baml
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.g.resources
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.exe
+C:\Users\Andrej\Desktop\RVA projekat-o\RVA\Client\obj\Debug\Client.pdb

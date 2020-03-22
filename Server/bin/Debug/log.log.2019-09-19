@@ -1,0 +1,26 @@
+﻿2019-09-19 11:49:57,898 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,382 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,398 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,398 INFO [1] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:49:58,398 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-19 11:49:58,414 INFO [1] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-19 11:49:58,414 INFO [1] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-19 11:49:58,414 INFO [1] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-19 11:49:58,429 INFO [1] Server.Providers.Logger.LogMessage - Add appointment executed succesfuly.
+2019-09-19 11:49:58,429 INFO [1] Server.Providers.Logger.LogMessage - Checking existing User data.
+2019-09-19 11:49:58,429 INFO [1] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-19 11:49:58,445 INFO [1] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-19 11:49:58,445 INFO [1] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-19 11:49:58,445 INFO [1] Server.Providers.Logger.LogMessage - Add Diagnosis executed succesfuly.
+2019-09-19 11:50:09,557 INFO [5] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-19 11:50:09,666 INFO [5] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
+2019-09-19 11:50:28,793 INFO [5] Server.Providers.Logger.LogMessage - Add User executed succesfuly.
+2019-09-19 11:50:29,793 INFO [8] Server.Providers.Logger.LogMessage - Add User info command done.
+2019-09-19 11:50:37,283 INFO [5] Server.Providers.Logger.LogMessage - Login User executed succesfuly.
+2019-09-19 11:50:37,298 INFO [8] Server.Providers.Logger.LogMessage - Get All appointments executed succesfuly.
